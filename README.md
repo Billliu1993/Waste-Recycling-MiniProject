@@ -1,6 +1,6 @@
 # Waste-Recycling-MiniProject
 
-This project is a practice for building up an image recognition app for IOS system using MS Azure and Swift. 
+This project is a personal practice for building up an image recognition app for IOS system using MS Azure and Swift. 
 * Motivation
 Effective waste recycling requires careful categorization of wastes. However, given the large number of waste categories, this process could be time-consuming. Herein, there is demand for automated image recognition protocols to accelerate the process.
 
